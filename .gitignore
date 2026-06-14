@@ -1,0 +1,4 @@
+youtube.cfg
+__pycache__/
+*.pyc
+*.pyo
